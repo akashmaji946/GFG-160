@@ -1,6 +1,10 @@
 /*
 akashmaji945(@gmail.com)
 */
+#include<bits/stdc++.h>
+#include<vector>
+using namespace std;
+
 using namespace std;
 class Solution {
   public:

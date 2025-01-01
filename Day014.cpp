@@ -1,6 +1,11 @@
 /*
 akashmaji945(@gmail.com)
-*/class Solution {
+*/
+#include<bits/stdc++.h>
+#include<vector>
+using namespace std;
+
+class Solution {
   public:
     int myAtoi(char *s) {
         
